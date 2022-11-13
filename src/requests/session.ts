@@ -1,3 +1,3 @@
-type SessionPostRequest = {
+export type SessionPostRequest = {
   code: string
 }

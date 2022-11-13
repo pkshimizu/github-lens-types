@@ -1,3 +1,3 @@
-type SessionPostResponse = {
+export type SessionPostResponse = {
   token: string
 }
