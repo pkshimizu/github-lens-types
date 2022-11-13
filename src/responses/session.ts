@@ -1,0 +1,3 @@
+type SessionPostResponse = {
+  token: string
+}
